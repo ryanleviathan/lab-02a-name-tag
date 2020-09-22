@@ -1,0 +1,45 @@
+body {
+    background-color: teal;
+    align-content: center;
+}
+
+main {
+    width: 380px;
+    height: 270px;
+    background-color: red;
+    font-family: Arial;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+p {
+    margin: 0;
+}
+
+.hello {
+    font-size: 4em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.my-name-is {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.insert-name {
+    color: black;
+    background-color: white;
+    line-height: 115px;
+    font-size: 1.9em;
+    font-family: cursive;
+}
+
+.flex-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
