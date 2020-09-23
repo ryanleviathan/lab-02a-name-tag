@@ -37,6 +37,29 @@ p {
     font-family: cursive;
 }
 
+.greeting {
+    font-size: 1.5em;
+}
+
+.colorButtonPink {
+    background-color: pink;
+    border-radius: 15px;
+}
+
+.colorButtonLightGreen {
+    background-color: lightgreen;
+    border-radius: 15px;
+}
+
+.colorButtonLightBlue {
+    background-color: lightblue;
+    border-radius: 15px;
+}
+
+.button {
+    border-radius: 15px;
+}
+
 .flex-center {
     display: flex;
     flex-direction: column;
